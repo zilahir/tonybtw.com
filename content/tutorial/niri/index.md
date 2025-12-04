@@ -430,7 +430,7 @@ The Overview feature (Super+O) is absolutely killer - it gives you a birds-eye v
 
 ## Final Thoughts {#final-thoughts}
 
-You're now ready to use Neovim as a modern, fast, and extensible code editor.
+You're now ready to use Niri as a modern, fast, and extensible Wayland Compositor.
 
 Thanks so much for checking out this tutorial. If you got value from it, and you want to find more tutorials like this, check out
 my youtube channel here: [YouTube](https://youtube.com/@tony-btw), or my website here: [tony,btw](https://www.tonybtw.com)
